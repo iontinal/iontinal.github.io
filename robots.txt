@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iontinal.github.io/sitemap
+Sitemap: https://iontinal.github.io/app/sitemap
+Sitemap: https://iontinal.github.io/assets/sitemap
+Sitemap: https://iontinal.github.io/css/sitemap
+Sitemap: https://iontinal.github.io/includes/sitemap
+Sitemap: https://iontinal.github.io/item/sitemap
+Sitemap: https://iontinal.github.io/src/sitemap
